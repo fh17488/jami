@@ -3,13 +3,13 @@
 	url = https://review.jami.net/ring-client-android
 [submodule "client-gnome"]
 	path = client-gnome
-	url = https://review.jami.net/ring-client-gnome
+	url = https://github.com/fh17488/jami-gnome-client.git
 [submodule "client-windows"]
 	path = client-windows
 	url = https://review.jami.net/ring-client-windows
 [submodule "daemon"]
 	path = daemon
-	url = https://review.jami.net/ring-daemon
+	url = https://github.com/fh17488/jami-daemon.git
 [submodule "lrc"]
 	path = lrc
 	url = https://review.jami.net/ring-lrc
